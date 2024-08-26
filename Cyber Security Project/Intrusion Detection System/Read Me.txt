@@ -1,0 +1,8 @@
+Network Intrusion Detection System.
+
+1: Locate Rules Command:"sudo vim /etc/snort/rules/local.rules".
+2: Run Rules: "sudo snort -q -l /var/log/snort -i 'interface' -A console -c /etc/snort/snort.conf"
+3: Rule Generator: "Snorpy(Website)".
+4: Get Community Rules: "Snort.org" download rules.
+
+THANK YOU...
